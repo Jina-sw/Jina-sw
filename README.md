@@ -1,4 +1,4 @@
-Hi, this is Jina 👋 <br/>
+Hi, this is Jina👋 <br/>
 Always welcome to connect with fellow developers and student developers!<br/>
 --Currently studying 📚 @ Langara CS <br/>
 
